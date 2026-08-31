@@ -1,3 +1,3 @@
 # intro-git-fast
 intro
-## xyx
+## xyx.
